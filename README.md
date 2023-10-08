@@ -1,1 +1,1 @@
-"# CS50-AI-shopping" 
+This is a Programming Task called : CS50 AI shopping.
